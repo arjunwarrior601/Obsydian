@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Titanium & Obsidian Palette -->
+    <color name="obsidian_black">#08090C</color>
+    <color name="obsidian_surface">#101216</color>
+    <color name="titanium_dark">#161920</color>
+    <color name="titanium_medium">#222630</color>
+    <color name="titanium_light">#2E3342</color>
+    <color name="titanium_brushed">#454B5C</color>
+    <color name="titanium_silver">#8E95A5</color>
+    <color name="titanium_platinum">#E2E6EF</color>
+
+    <!-- Electric Blue Accents -->
+    <color name="electric_blue_primary">#00E5FF</color>
+    <color name="electric_blue_secondary">#00B0FF</color>
+    <color name="electric_blue_dark">#0072B2</color>
+
+    <!-- Status -->
+    <color name="status_green">#00E676</color>
+    <color name="status_amber">#FFB300</color>
+    <color name="status_red">#FF5252</color>
+</resources>

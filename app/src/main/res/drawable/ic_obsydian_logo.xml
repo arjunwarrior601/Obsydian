@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="32dp"
+    android:height="32dp"
+    android:viewportWidth="32"
+    android:viewportHeight="32">
+    <!-- Outer Titanium Shield -->
+    <path
+        android:fillColor="#1B202B"
+        android:strokeColor="#3F475B"
+        android:strokeWidth="1"
+        android:pathData="M16,2 L28,8 L28,24 L16,30 L4,24 L4,8 Z" />
+    <!-- Electric Blue Diamond Accent -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M16,8 L22,14 L16,20 L10,14 Z" />
+    <!-- Play Core -->
+    <path
+        android:fillColor="#08090C"
+        android:pathData="M15,11 L19,14 L15,17 Z" />
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="1.2"
+        android:pathData="M16,21 L16,26" />
+</vector>

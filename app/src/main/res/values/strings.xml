@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OBSYDIAN</string>
+    <string name="tagline">Beyond Playback</string>
+    <string name="section_video">Video</string>
+    <string name="section_music">Music</string>
+    <string name="section_photos">Photos</string>
+    <string name="section_files">Files</string>
+    <string name="status_offline">OFFLINE</string>
+    <string name="status_not_implemented">NOT IMPLEMENTED YET</string>
+    <string name="permission_rationale">OBSYDIAN is completely offline. Storage access is required strictly to read and organize local media on this device.</string>
+    <string name="permission_grant_button">Grant Media Access</string>
+</resources>
